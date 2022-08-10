@@ -1,0 +1,44 @@
+body{
+    background-color: beige;
+}
+
+h1{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+
+h2{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+}
+
+#decrementar{
+    background-color:goldenrod;
+    color:aliceblue;
+    border-radius:15px;
+    padding:10px;
+    margin:10px;
+}
+
+#incrementar{
+    background-color:gray;
+    color:aliceblue;
+    border-radius:15px;
+    padding:10px;
+    margin:10px;
+}
+
+#resetear{
+    background-color: tomato;
+    color:aliceblue;
+    border-radius:15px;
+    padding:10px;
+    margin:10px;
+}
